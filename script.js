@@ -46,4 +46,5 @@ console.log(persone["isMarried"]);
 let v = false;
 console.log(!v);//true
 
-let e = m * (c **2);
+let e = 0;
+let m = 0;
